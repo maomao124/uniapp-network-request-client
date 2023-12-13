@@ -15,7 +15,9 @@
 			}
 		},
 		onLoad() {
-
+			uni.navigateTo({
+				url:'/pages/index/test4/test4'
+			})
 		},
 		methods: {
 

@@ -1,0 +1,1 @@
+<view><button type="primary" data-event-opts="{{[['tap',[['request',['$event']]]]]}}" bindtap="__e">点击调用/api/test/get</button></view>

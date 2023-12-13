@@ -1,0 +1,1 @@
+<view><button type="primary" data-event-opts="{{[['tap',[['download',['$event']]]]]}}" bindtap="__e">下载文件</button></view>

@@ -1,0 +1,1 @@
+<view><button type="primary" data-event-opts="{{[['tap',[['request',['$event']]]]]}}" bindtap="__e">点击调用/api/test/post2</button><view class="_br"></view><button type="primary" data-event-opts="{{[['tap',[['request2',['$event']]]]]}}" bindtap="__e">点击调用/api/test/post3</button></view>
